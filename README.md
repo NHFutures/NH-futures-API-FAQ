@@ -1,6 +1,6 @@
 ### 본 메뉴얼에서 부족한 부분에 대해서 추가 요청시 확인 후 업데이트 하도록 하겠습니다.
 
-#### <br><br>[NH선물] API 거래 고객 안내 안녕하세요, NH선물 입니다. <br>개발 중 발생하는 선물옵션 시스템 매매(API) 관련 문의는 nhretail@futures.co.kr 이메일이나 텔레그램으로 편하게 연락 부탁드립니다.
+#### <br><br>[NH선물] 안녕하세요, NH선물 입니다. <br>개발 중 발생하는 선물옵션 시스템 매매(API) 관련 문의는 nhretail@futures.co.kr 이메일이나 텔레그램으로 편하게 연락 부탁드립니다.
 
 <br><br>▶ 파이썬 API 깃허브 :
 <br>https://github.com/NHFutures
