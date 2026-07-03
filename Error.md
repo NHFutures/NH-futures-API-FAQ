@@ -4,10 +4,10 @@ NH선물 API 관련 오류 메시지 해결방안입니다.
 
 ## 목차
 
-- [\[05012\] 리얼접속 승인이 필요합니다](#q-05012-리얼접속-승인이-필요합니다)
-- [\[05012\] 비밀번호 5회 오류 초과](#q-05012-비밀번호-5회-오류-초과)
-- [\[05012\] API를 통한 로그인이 불가한 ID입니다](#q-05012-api를-통한-로그인이-불가한-id입니다)
-- [The system is out of memory or resources / ChannelManager를 찾을 수 없습니다](#q-the-system-is-out-of-memory-or-resources--channelmanager를-찾을-수-없습니다)
+- [\[05012\] 리얼접속 승인이 필요합니다](#05012-리얼접속-승인이-필요합니다)
+- [\[05012\] 비밀번호 5회 오류 초과](#05012-비밀번호-5회-오류-초과)
+- [\[05012\] API를 통한 로그인이 불가한 ID입니다](#05012-api를-통한-로그인이-불가한-id입니다)
+- [The system is out of memory or resources / ChannelManager를 찾을 수 없습니다](#the-system-is-out-of-memory-or-resources--channelmanager를-찾을-수-없습니다)
 
 ---
 
